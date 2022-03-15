@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]http://g.recordit.co/5XeMzSr52y.gif
+![] http://g.recordit.co/5XeMzSr52y.gif
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Luis Leis 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
