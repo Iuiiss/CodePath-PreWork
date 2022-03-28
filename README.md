@@ -61,7 +61,7 @@ I would totally love to understand more about the structure of everything. I wou
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://www.loom.com/share/bf815b647bde4488a49eab82f175ed95 
 
 
 ## License
